@@ -1,0 +1,2 @@
+origin	/home/diego/servidor-remoto (fetch)
+origin	/home/diego/servidor-remoto (push)
